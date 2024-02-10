@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 2 - Bootstrap 5</title>
+    <link rel="stylesheet" href="CSS/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Aula 02</h1>
+
+        <table class="table table-danger table-striped table-hover">
+            <!--Se eu usei um striped eu tbm consigo usar um hover, essa é a novidade da bootstrap 5-->
+            <thead class="table-group-divider">
+                <tr>
+                    <th>Nome do Curso</th>
+                    <th class="text-center">Carga Horária</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody class="table table-dark table-group-divider">
+                <tr>
+                    <td>Bootstrap 5</td>
+                    <td class="text-center">12H</td>
+                    <td class="text-end">
+                        <button class="btn btn-primary">Detalhes</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>React JS</td>
+                    <td class="text-center">40H</td>
+                    <td class="text-end">
+                        <button class="btn btn-primary">Detalhes</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>React Native</td>
+                    <td class="text-center">40H</td>
+                    <td class="text-end">
+                        <button class="btn btn-primary">Detalhes</button>
+                    </td>
+                </tr>
+
+                <table class="table table-danger table-striped">
+            <thead class="table-group-divider">
+                <tr>
+                    <th>Nome do Curso</th>
+                    <th>Carga Horária</th>
+                </tr>
+            </thead>
+            <tbody class="table table-light table-group-divider">
+                <tr>
+                    <td>Bootstrap 5</td>
+                    <td>12H</td>
+                </tr>
+                <tr>
+                    <td>React JS</td>
+                    <td>40H</td>
+                </tr>
+                <tr>
+                    <td>React Native</td>
+                    <td>40H</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+    
+    <script src="JS/bootstrap.bundle.min.js"></script>
+</body>
+</html>
