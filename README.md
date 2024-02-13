@@ -12,3 +12,5 @@
  <a href= "https://anajulialeite.github.io/Bootstrap/Aula02-2.html">Executar o exercício 2.2</a>
 
  <a href= "https://anajulialeite.github.io/Bootstrap/Aula02-3.html">Executar o exercício 2.3</a>
+
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula03.html">Executar o exercício 3</a>
