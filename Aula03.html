@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 03 - Bootstrap 5</title>
+    <link rel="stylesheet" href="CSS/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Aula 03</h1>
+
+        <form action="">
+            <!--form-label foi utilizado para dar um afastamento entre o h1 e o input, muitas informações eu estou deixando de anotar, pois são informações repetidas ao curso de HTML5 e CSS3 do CursoemVideo, ex: O uso do placeholder.-->
+
+            <!--INFORMAÇÃO IMPORTANTE: O Bootstrap ele funciona em qualquer navegador, sem a configuração do bootstrap, o HTML5 e CSS3 nem sempre vão funcionar em todos os navegadores, já testei e teve algumas diferenças com a mudança de navegador.-->
+            <label for="username" class="form-label">Nome de usuário</label>
+            <input id="username" type="text" class="form-control" placeholder="Digite seu user name">
+            <div class="form-text">
+                Neste cargo não podem ser incluídos caracteres especiais 
+            </div>
+
+            <hr>
+            <!--Tamanho do componente do formulário-->
+            <input type="text" value="Luziânia" class="form-control form-control-sm" disabled>
+            <br>
+            <input type="text" value="Luziânia" class="form-control" disabled>
+            <br>
+            <input type="text" value="Luziânia" class="form-control form-control-lg" disabled>
+            <!--Disable é par colocar cor, pequeno, padrão e grande -->
+            <br>
+            <!--Upload de arquivos dentro dos formulários-->
+            <input type="file" name="" id="" class="form-control">
+            <br>
+            
+            <!--Cores - Color Picker-->
+            <input type="color" class="form-control form-control-color">
+            <br>
+            <!--Componente de seleção - Select-->
+            <select name="" id="" class="form-select">
+                <option value="" disabled selected hidden>--Escolha sua Rede Social aqui--</option>
+                <option value="">Instagram</option>
+                <option value="">Likedin</option>
+                <option value="">GitHub</option>
+                <option value="">Facebook</option>
+                <option value="">Whatsapp</option>
+                <option value="">Discord</option>
+            </select>
+            <br>
+            <!--Checkboxs e Radio Button's-->
+            <p>
+                Selecione os cursos do seu interesse
+            </p>
+            <input type="checkbox" name="" id="" class="form-check-input" value="HTML5, CSS3 e JS">
+            <label for="HTML5, CSS3 e JS">HTML5, CSS3 e JS</label>
+            <br>
+            <input type="checkbox" name="" id="" class="form-check-input" value="Bootstrap">
+            <label for="Bootstrap">Bootstrap</label>
+            <br>
+            <input type="checkbox" name="" id="" class="form-check-input" value="JavaScript">
+            <label for="JavaScript">JavaScript</label>
+            <br>
+            <input type="checkbox" name="" id="" class="form-check-input" value="PHP">
+            <label for="PHP">PHP</label>
+            <br>
+            <input type="checkbox" name="" id="" class="form-check-input" value="C#">
+            <label for="C#">C#</label>
+            <br>
+            <input type="checkbox" name="" id="" class="form-check-input" value="SQL Server">
+            <label for="SQL Server">SQL Server</label>
+            <br>
+            <input type="checkbox" name="" id="" class="form-check-input" value="Pacote Suporte Técnico">
+            <label for="Pacote Suporte Técnico">Pacote Suporte Técnico</label>
+            <br>
+            <hr>
+            
+            <br>
+            <p>
+                Qual é a sua disponibilidade para as aulas (Turno)?
+            </p>
+            <input type="radio" name="Turno" id="Manhã" class="form-check-input">
+            <label for="Manhã">Manhã</label>
+            <br>
+            <input type="radio" name="Turno" id="Tarde" class="form-check-input">
+            <label for="Tarde">Tarde</label>
+            <br>
+            <input type="radio" name="Turno" id="Noite" class="form-check-input">
+            <label for="Noite">Noite</label>
+            <br>
+            <hr>
+
+            <p>
+                Configurações de perfil:
+            </p>
+            <!--Switch-->
+            <div class="form-check form-switch">
+            <input type="checkbox" name="" id="" class="form-check-input">
+            </div>
+        </form>
+
+    </div>
+    <script src="JS/bootstrap.bundle.min.js"></script>
+</body>
+</html>
