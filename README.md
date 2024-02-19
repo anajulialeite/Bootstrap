@@ -3,22 +3,24 @@
  
  Aqui estão todos os exercícios:
 
- <a href= "https://anajulialeite.github.io/Bootstrap/Aula01.html">Executar o exercício 1</a>
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula01.html">Executar o exercício 01</a>
 
- <a href= "https://anajulialeite.github.io/Bootstrap/Aula02.html">Executar o exercício 2</a>
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula02.html">Executar o exercício 02</a>
 
- <a href= "https://anajulialeite.github.io/Bootstrap/Aula02-1.html">Executar o exercício 2.1</a>
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula02-1.html">Executar o exercício 02.1</a>
 
- <a href= "https://anajulialeite.github.io/Bootstrap/Aula02-2.html">Executar o exercício 2.2</a>
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula02-2.html">Executar o exercício 02.2</a>
 
- <a href= "https://anajulialeite.github.io/Bootstrap/Aula02-3.html">Executar o exercício 2.3</a>
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula02-3.html">Executar o exercício 02.3</a>
 
- <a href= "https://anajulialeite.github.io/Bootstrap/Aula03.html">Executar o exercício 3</a>
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula03.html">Executar o exercício 03</a>
 
- <a href= "https://anajulialeite.github.io/Bootstrap/Aula04.html">Executar o exercício 4</a>
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula04.html">Executar o exercício 04</a>
 
- <a href= "https://anajulialeite.github.io/Bootstrap/Aula04-1.html">Executar o exercício 4.1</a>
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula04-1.html">Executar o exercício 04.1</a>
 
- <a href= "https://anajulialeite.github.io/Bootstrap/Aula05.html">Executar o exercício 5</a>
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula05.html">Executar o exercício 05</a>
 
- <a href= "https://anajulialeite.github.io/Bootstrap/Aula05-1.html">Executar o exercício 5.1</a>
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula05-1.html">Executar o exercício 05.1</a>
+
+ <a href= "https://anajulialeite.github.io/Bootstrap/Aula06.html">Executar o exercício 06</a>
