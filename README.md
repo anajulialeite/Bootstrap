@@ -4,7 +4,7 @@
 
  Aprendendo a usar a Bootstrap!!!
  
- Aqui estão todos os exercícios feitos durante o curso :
+ Aqui estão todos os exercícios:
 
  <a href= "https://anajulialeite.github.io/Bootstrap/Aula01.html">Executar o exercício 01</a>
 
