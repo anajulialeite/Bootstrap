@@ -2,7 +2,7 @@
 
 <img src="Imagem/bootstrap.webp" alt="Logo" align="right" width="150">
 
- Aprendendo a usar a Bootstrap!!!
+ Aprendendo a usar a Bootstrap 5!!!
  
  Aqui estão todos os exercícios feitos durante o curso:
 
