@@ -27,3 +27,5 @@
  <a href= "https://anajulialeite.github.io/Bootstrap/Aula05-1.html">Executar o exercício 05.1</a>
 
  <a href= "https://anajulialeite.github.io/Bootstrap/Aula06.html">Executar o exercício 06</a>
+
+ Documentação oficial da Bootstrap 5: https://getbootstrap.com/
