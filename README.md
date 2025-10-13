@@ -30,7 +30,7 @@ Aqui estão todos os exercícios feitos durante o curso:
 
 ## Link útil
 
-Documentação oficial da Bootstrap 5: https://getbootstrap.com/
+Documentação oficial da <a href= "https://getbootstrap.com/">Bootstrap 5</a>
 
 ## License
 
