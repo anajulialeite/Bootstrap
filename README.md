@@ -28,8 +28,10 @@
 
  <a href= "https://anajulialeite.github.io/Bootstrap/Aula06.html">Executar o exercício 06</a>
 
+ ## Link útil
+
  Documentação oficial da Bootstrap 5: https://getbootstrap.com/
 
-# License
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
