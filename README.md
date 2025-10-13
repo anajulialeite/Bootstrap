@@ -30,8 +30,8 @@ Aqui estão todos os exercícios feitos durante o curso:
 
 ## Link útil
 
-Documentação oficial da <a href= "https://getbootstrap.com/">Bootstrap 5</a>
+Documentação oficial da <a href= "https://getbootstrap.com/" style="color: purple;">Bootstrap 5</a>
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
