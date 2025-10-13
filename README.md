@@ -1,6 +1,6 @@
 # Bootstrap
 
-<img src="Imagem/bootstrap.webp" alt="Logo" align="right" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Logo" align="right" width="250"/>
 
 Aprendendo a usar a Bootstrap 5!!!
  
