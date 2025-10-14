@@ -4,7 +4,7 @@
 
 Aprendendo a usar a Bootstrap 5!!!
  
-Aqui estão todos os exercícios feitos durante o curso:
+Aqui estão todos os exercícios feitos durante o curso de Bootstrap 5:
 
 <a href= "https://anajulialeite.github.io/Bootstrap/Aula01.html">Executar o exercício 01</a>
 
@@ -29,6 +29,8 @@ Aqui estão todos os exercícios feitos durante o curso:
 <a href= "https://anajulialeite.github.io/Bootstrap/Aula06.html">Executar o exercício 06</a>
 
 ## Link útil
+
+link do curso <a href= "https://www.youtube.com/watch?v=ntdPisE93-w">Bootstrap 5</a>
 
 Documentação oficial da <a href= "https://getbootstrap.com/" style="color: purple;">Bootstrap 5</a>
 
