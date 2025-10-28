@@ -28,7 +28,7 @@ Aqui estão todos os exercícios feitos durante o curso:
 
 <a href= "https://anajulialeite.github.io/Bootstrap/Aula06.html">Executar o exercício 06</a>
 
-## Link útil
+## Links úteis
 
 link do curso <a href= "https://www.youtube.com/watch?v=ntdPisE93-w">Bootstrap 5</a>
 
